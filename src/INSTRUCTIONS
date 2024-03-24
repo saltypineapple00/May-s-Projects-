@@ -1,0 +1,10 @@
+MAY MOE
+SUMMER 2022
+CS003B
+
+HOW TO PLAY TIC-TAC-TOE 2.0
+
+1. The program will ask for the players, you just have to input the number of player.
+2. It will then ask for the pieces (charcters) to represent each players, just input a char for each player.
+3. Input how many pieces in a row it needs to be to win. (between 3 - (player+1) )
+4. Then the game starts from player 1 by asking for a row number first, then a column. It will repeat for each player until the game ends.
